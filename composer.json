@@ -1,0 +1,17 @@
+{
+    "name": "wexwill/php_site",
+    "description": "Local site for PHP needs",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PhpSite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrei Nadezhkin",
+            "email": "andreikoman@gmail.com"
+        }
+    ],
+    "require": {}
+}
